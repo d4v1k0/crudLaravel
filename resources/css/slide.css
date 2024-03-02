@@ -1,0 +1,4 @@
+.custom-slide-image {
+  height: 500px; /* ajusta la altura según tus necesidades */
+  object-fit: cover; /* para mantener la proporción de aspecto y cubrir completamente el contenedor */
+}

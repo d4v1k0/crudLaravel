@@ -1,0 +1,12 @@
+.custom-card-image {
+  height: 250px; /* ajusta la altura según tus necesidades */
+  object-fit: cover; /* para mantener la proporción de aspecto y cubrir completamente el contenedor */
+}
+
+.card {
+  transition: all 0.3s;
+}
+
+.card:hover {
+  transform: translateY(-20px) scale(1.04);
+}
